@@ -1,0 +1,138 @@
+.background{
+	background:#d3d3d3;
+}
+
+.logo
+{
+display:inline-block;
+width:50%;
+}
+
+h1{font-style: italic;
+padding:0.3em;
+border-bottom:black;}
+
+.logo img{
+	height:30px;
+}
+ul{color:black
+}
+
+.nav{
+	display:inline-block;
+	width:50%;
+	text-align:right;
+}
+.nav li
+{display: inline-block;
+	margin:20px;}
+
+.hello
+{font-style:arial;
+   display: block;
+   text-align:center;
+   }
+span
+{color:red;}
+
+.zebra{
+	border-radius:20px;
+	display:inline-block;
+  }
+.winter{
+	display:inline-block;
+}
+.burn{
+  display:inline-block;
+  }
+.Dubai{
+	display:inline-block;
+}
+.Barbedwire{
+	display:inline-block;
+}
+.gatesofthesun{
+	display:inline-block;
+}
+.lazydays{
+	 display:inline-block;
+}
+.QuadCore{
+	display: inline-block
+}
+.RetroBlast{
+	display:inline-block;
+}
+.sunrise{
+	display:inline-block;
+
+	}
+#wrap
+{width:485px;
+
+}
+.left
+{width:585px;
+height:130px;
+display:inline-block;
+font-style: arial;
+float:left
+padding-bottom:150px;
+}
+.right
+{width:585px;
+height:130px;
+display:inline-block;
+font-style: arial;
+float:right;
+padding-bottom:150px;
+}
+.thankyou
+{font-style:italic;
+	font-size:35px;
+   display: block;
+   text-align:center;
+   color:red;
+   background:#d3d3d3;
+   }
+
+.bottombar
+{background-color:black;
+ margin-top:40px;
+height:400px;
+}
+
+h3
+{color:black;
+font-style:cursive}
+
+h2{
+	margin-top:50px;
+	color:hotpink;
+	margin-top:60px;
+	margin-left:30px;
+    font-style:cursive;
+}
+
+.button1{
+	margin-left:30px;
+	margin-top:60px;
+	background:white;
+	display:block;
+	width:500px;
+	height:50px;
+}
+.button2{
+	margin-left:30px;
+	background:white;
+	display:block;
+	width:500px;
+	height:50px;
+}
+.button3{
+	margin-left:30px;
+    background:white;
+	display:block;
+	width:500px;
+	height:50px;
+}
